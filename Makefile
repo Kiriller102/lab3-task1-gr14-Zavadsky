@@ -12,3 +12,6 @@ $(OBJDIR)/main.o: $(SRCDIR)/main.c $(INCDIR)/interface.h
 
 $(OBJDIR)/interface.o: $(SRCDIR)/interface.c $(INCDIR)/interface.h
 	gcc -c $(SRCDIR)/interface.c -o $(OBJDIR)/interface.o 
+	
+clean:
+	rm $(BINDIR)/*; rm $(OBJDIR)/*.o
