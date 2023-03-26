@@ -5,6 +5,7 @@ This repository is for the first task of the third practicum. There I am learnin
 # Usage
 
 The main aim of the repo is sub-task.  For each number of array, rearrange its decimal numbers so as to get the maximum possible number written with the same digits.
+
 Used:
 * generating using rand()
 * sorting
