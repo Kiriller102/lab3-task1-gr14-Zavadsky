@@ -8,7 +8,7 @@ The main aim of the repo is sub-task.  For each number of array, rearrange its d
 
 Used:
 * generating using rand()
-* sorting
+* rearrangeDigits
 
 Developed by Zavadsky Kirill 14a group.
 
